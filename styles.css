@@ -1,6 +1,7 @@
   * {
       margin: 0;
       padding: 0;
+      background-color: #D5E1EF;
   }
 
   .container {
@@ -15,6 +16,7 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
+      background-color: #fff;
   }
 
   .container img {
@@ -23,12 +25,15 @@
 
   .content {
       margin: 8px;
+      background-color: #fff;
   }
 
   .content h3 {
       text-align: center;
       font-size: 24px;
       margin-top: 2rem;
+      background-color: #fff;
+      color: #253B59;
   }
 
   .content p {
@@ -38,4 +43,5 @@
       margin-top: 1rem;
       margin-bottom: 2rem;
       color: #A0AAB8;
+      background-color: #fff;
   }
