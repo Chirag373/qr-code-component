@@ -12,7 +12,7 @@
 
 3. Run the server
 
-Live link : 
+Live link : https://chirag373.github.io/qr-code-component/
 
 Task by: Frontend Mentor
 Note: I am an experienced developer but created this simple task as a passion project.
